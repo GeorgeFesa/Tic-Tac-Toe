@@ -1,5 +1,3 @@
-package ex8;
-
 public class Player {
 	
 	private String name;
