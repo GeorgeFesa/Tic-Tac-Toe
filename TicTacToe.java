@@ -1,5 +1,3 @@
-package ex8;
-
 import java.util.Scanner;
 
 public class TicTacToe {
